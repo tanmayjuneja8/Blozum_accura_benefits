@@ -29,6 +29,10 @@
     }
 }
 
+.image_bg {
+    width: 90%;
+}
+
 :root {
     --text: #2B3044;
     --font-size: 10px;
